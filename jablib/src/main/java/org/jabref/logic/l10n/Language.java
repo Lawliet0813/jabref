@@ -36,7 +36,7 @@ public enum Language {
     SPANISH("Español", "es"),
     SWEDISH("Svenska", "sv"),
     TAGALOG("Tagalog/Filipino", "tl"),
-    TRADITIONAL_CHINESE("Chinese (Traditional)", "zh_TW"),
+    TRADITIONAL_CHINESE("繁體中文 (Chinese Traditional)", "zh_TW"),
     TURKISH("Turkish", "tr"),
     UKRAINIAN("украї́нська (Ukrainian)", "uk"),
     VIETNAMESE("Vietnamese", "vi");
